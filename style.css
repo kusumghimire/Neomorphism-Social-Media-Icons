@@ -23,6 +23,8 @@ h1 {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
 }
 
 .social-media a {
@@ -32,7 +34,7 @@ h1 {
   background: #e3edf7;
   height: 75px;
   width: 75px;
-  margin: 0 15px;
+  margin: 30px 15px;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
