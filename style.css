@@ -29,7 +29,7 @@ h1 {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background: #ddd;
+  background: #e3edf7;
   height: 75px;
   width: 75px;
   margin: 0 15px;
@@ -42,5 +42,10 @@ h1 {
   text-decoration: none;
   -webkit-box-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.15), -6px -6px 10px -1px rgba(255, 255, 255, 0.7);
           box-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.15), -6px -6px 10px -1px rgba(255, 255, 255, 0.7);
+}
+
+.social-media a i {
+  font-size: 35px;
+  color: #777;
 }
 /*# sourceMappingURL=style.css.map */
