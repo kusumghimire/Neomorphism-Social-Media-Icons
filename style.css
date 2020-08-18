@@ -53,6 +53,26 @@ h1 {
           transform: translateY(2px);
 }
 
+.social-media a:hover .fa-facebook {
+  color: #3b5998;
+}
+
+.social-media a:hover .fa-whatsapp {
+  color: #4fce5d;
+}
+
+.social-media a:hover .fa-twitter {
+  color: #00acee;
+}
+
+.social-media a:hover .fa-instagram {
+  color: #f14843;
+}
+
+.social-media a:hover .fa-youtube {
+  color: #f00;
+}
+
 .social-media a i {
   font-size: 35px;
   color: #777;

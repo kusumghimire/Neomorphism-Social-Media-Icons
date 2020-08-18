@@ -34,13 +34,28 @@ h1 {
         -0px -12px 10px -1px rgba(0, 0, 0, 0.05);
       border: 1px solid rgba(0, 0, 0, 0.1);
       transform: translateY(2px);
+      .fa-facebook{
+        color: #3b5998;
+      }
+      .fa-whatsapp{
+        color: #4fce5d;
+      }
+      .fa-twitter{
+        color: #00acee;
+      }
+      .fa-instagram{
+        color: #f14843;
+      }
+      .fa-youtube{
+        color: #f00;
+      }
     }
     i {
       font-size: 35px;
       color: #777;
       transition: transform 0.5s;
-      &:hover{
-        transform:scale(0.90);
+      &:hover {
+        transform: scale(0.9);
       }
     }
   }
